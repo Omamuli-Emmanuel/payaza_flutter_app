@@ -31,7 +31,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  paywithpayazaflutter: ^0.0.8
+  paywithpayazaflutter: ^0.1.0
 
 
   # The following adds the Cupertino Icons font to your application.
